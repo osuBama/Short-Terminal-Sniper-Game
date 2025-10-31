@@ -10,7 +10,7 @@ public class Soldier extends Enemy{
 
     @Override
     public String getMessage() {
-        return "For the fuhrer!";
+        return "For the motherland!!";
     }
 
 
