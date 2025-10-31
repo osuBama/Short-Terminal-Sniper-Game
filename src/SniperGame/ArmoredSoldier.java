@@ -33,6 +33,6 @@ public class ArmoredSoldier extends Enemy {
 
     @Override
     public String getMessage() {
-        return "FOR THE FUHRER I FUCK YOUR SISTER ALLAH ACKBAR";
+        return "FOR THE MOTHERLAND";
     }
 }
